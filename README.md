@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Enterprise HR Policy & Employee Support Agentic RAG Copilot
 
 An end-to-end Forward Deployed Engineer (FDE) project that converts an Agentic RAG workflow into a deployable internal HR product using LangGraph, FastAPI, Pinecone, OpenAI, Tavily, HTML, CSS, and JavaScript.
@@ -260,3 +261,6 @@ If neither private nor web evidence is sufficient, the workflow can rewrite the 
 ## 9. What Changed From the IT Support Reference
 
 The application structure, graph topology, API shape, retrieval logic, ingestion layer, audit layer, Docker setup, and frontend behavior remain the same. Only domain-specific elements were changed: HR prompts, HR configuration names, UI wording, example questions, sample documents, and documentation.
+=======
+# HR-RAG
+>>>>>>> a180223620ab8302b2fd74b80f1c661676aa5039
